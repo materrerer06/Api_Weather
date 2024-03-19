@@ -1,8 +1,8 @@
-##Aplikacja Pogodowa
+## Aplikacja Pogodowa
 
 Aplikacja Pogodowa jest prostą aplikacją mobilną napisaną w języku Kotlin, która umożliwia użytkownikom sprawdzenie bieżącej pogody dla wybranego miasta z wykorzystaniem publicznego interfejsu programistycznego (API) OpenWeatherMap.
 
-##Funkcje
+### Funkcje
 
 Sprawdzanie pogody: Użytkownicy mogą wprowadzić nazwę miasta i sprawdzić bieżącą pogodę w tym miejscu.
 Wyświetlanie szczegółów pogody: Aplikacja wyświetla szczegółowe informacje o temperaturze, wilgotności, prędkości wiatru, wschodzie i zachodzie słońca oraz innych parametrach pogodowych.
